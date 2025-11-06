@@ -1,0 +1,29 @@
+#had{
+    display: flex;
+    grid-template-columns: repeat(3fr);
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 20px;
+}
+.img{
+    font-size: 60px;
+}
+#ketba{
+   margin: 0 200px 0 200px;
+   text-align: center;
+   
+}
+input ,button{
+    width: 300px;
+    height: 30px;
+    font-size: 16px;
+    ;
+}
+#main{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+    margin-top: 50px;
+    
+}
